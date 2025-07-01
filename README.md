@@ -6,3 +6,9 @@
 ![](https://img.shields.io/badge/讨厌-模板-yellow)
 ![](https://img.shields.io/badge/性格-啊哈-red)
 ![](https://img.shields.io/badge/想要-睡觉-red)
+
+</div>
+
+![头像](image/zzz.jpeg)
+
+![Visitor Count](https://profile-counter.glitch.me/wangziyi/count.svg)
